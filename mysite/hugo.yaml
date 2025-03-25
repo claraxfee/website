@@ -1,0 +1,5 @@
+baseURL: https://clarafee.xyz/
+languageCode: en-us
+title: Clara Fee
+
+theme: ["PaperMod"]
