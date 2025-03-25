@@ -1,9 +1,10 @@
 ---
-title: "WHRC College Radio Website"
+title: "WHRC Radio Website"
 date: 2024-03-25
 draft: false
-tags: ["portfolio"] ["web"] ["design"]
+tags: ["portfolio"]
 ---
+
 
 ## About
 

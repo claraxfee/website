@@ -5,4 +5,4 @@ draft: false
 tags: ["blog"]
 ---
 
-This is my first blog post! Welcome to my website. I'm just testing some things out.
+This is my first blog post! Welcome to my website.
