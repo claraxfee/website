@@ -1,0 +1,182 @@
+# If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
+# contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "https://clarafee.xyz/"
+title: "Clara Fee"
+languageCode: "en-us"
+theme: "PaperMod"
+copyright: "2025 Clara Fee"
+
+# Enable tags
+taxonomies:
+  tag: tags
+
+# Replace deprecated paginate with pagination
+pagination:
+  pagerSize: 5
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+pygmentsUseClasses: true
+
+# Define main sections
+mainsections: ["blog", "portfolio"]
+
+# Section configurations
+permalinks:
+  blog: /blog/:sections/:slug/
+  portfolio: /portfolio/:sections/:slug/
+  index: /index/:sections/:slug/
+
+minify:
+  disableXML: true
+  # minifyOutput: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: Portfolio
+          url: portfolio/
+          weight: 1
+        - name: Blog
+          url: blog/
+          weight: 2
+        - name: Index
+          url: index/
+          weight: 3
+        - name: About
+          url: about/
+          weight: 4
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Clara Fee's personal website"
+  author: "Clara Fee"
+
+  defaultTheme: auto
+  # disableThemeToggle: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  # disableSpecial1stPost: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: false
+  ShowAllPagesInArchive: true
+  ShowPageNums: true
+  ShowToc: true
+  ShowPoweredBy: false
+
+  # comments: false
+  images: ["images/clara_fee_headshot.jpg"] # TODO make a better cover
+
+  profileMode:
+    enabled: true
+    title: hello, world! i'm clara fee!
+    imageUrl: "/images/clara_fee_headshot.jpg"
+    imageTitle: Clara Fee
+    imageWidth: 200
+    imageHeight: 200
+    subtitle: "explore my <u>[portfolio](/portfolio/)</u> for my professional projects and work \n\n
+    click through my <u>[blog](/blog/)</u> for my thoughts, writing, and personal updates"
+
+  homeInfoParams:
+    Title: "Welcome!"
+
+  socialIcons:
+    - name: email
+      title: email me
+      url: "mailto:claraxfee@gmail.com"
+    - name: github
+      title: view my Github profile
+      url: "https://github.com/claraxfee/"
+    - name: SubStack
+      title: subscribe to my substack!
+      url: "https://clarafee.substack.com/"
+    - name: LinkedIn
+      title: connect with me on linkedin
+      url: "https://www.linkedin.com/in/claraxfee/"
+
+  # editPost:
+  #   URL: "https://github.com/claraxfee/website/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
+
+  # label:
+  # iconSVG: '<svg xmlns="http://www.w3.org/2000/svg" height="25" viewBox="0 -960 960 960" fill="currentColor"><path d="M320-240h320v-80H320v80Zm0-160h320v-80H320v80ZM240-80q-33 0-56.5-23.5T160-160v-640q0-33 23.5-56.5T240-880h320l240 240v480q0 33-23.5 56.5T720-80H240Zm280-520v-200H240v640h480v-440H520ZM240-800v200-200 640-640Z"/></svg>'
+  # text: "Home"
+  # icon: icon.png
+  # iconHeight: 35
+
+  # analytics:
+  #     google:
+  #         SiteVerificationTag: "XYZabc"
+
+  assets:
+    disableHLJS: true
+    customCSS: 
+      - css/extended/custom.css
+  #     favicon: "<link / abs url>"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
+
+  # cover:
+  #     hidden: true # hide everywhere but not in structured data
+  #     hiddenInList: true # hide on list pages and home
+  #     hiddenInSingle: true # hide on single page
+
+  # fuseOpts:
+  #     isCaseSensitive: false
+  #     shouldSort: true
+  #     location: 0
+  #     distance: 1000
+  #     threshold: 0.4
+  #     minMatchCharLength: 0
+  #     keys: ["title", "permalink", "summary", "content"]
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+
+
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true

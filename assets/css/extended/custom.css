@@ -1,0 +1,68 @@
+/* Import fonts */
+@import url('https://fonts.googleapis.com/css2?family=Jersey+M54&display=swap');
+
+/* Profile Mode Title */
+.profile-mode .profile-title {
+    font-family: 'Jersey M54', sans-serif !important;
+    font-size: 3rem;
+    color: #2c3e50;
+    text-transform: none;
+    letter-spacing: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Profile Mode Subtitle */
+.profile-mode .profile-subtitle {
+    font-family: 'Jersey M54', sans-serif !important;
+    font-size: 1.5rem;
+    color: #34495e;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Navigation Menu */
+.menu {
+    font-family: 'Jersey M54', sans-serif;
+    font-weight: 600;
+}
+
+/* Blog/Portfolio Post Titles */
+.post-title {
+    font-family: 'Jersey M54', sans-serif;
+    color: #2c3e50;
+}
+
+/* Post Content */
+.post-content {
+    font-family: 'Jersey M54', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #2c3e50;
+}
+
+/* Links */
+a {
+    color: #974f4f;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #b92929;
+}
+
+/* Buttons */
+.profile-mode .buttons {
+    font-family: 'Jersey M54', sans-serif;
+    font-weight: 600;
+}
+
+/* Custom colors for different sections */
+.portfolio .post-title {
+    color: #e74c3c;  /* Red for portfolio */
+}
+
+.blog .post-title {
+    color: #27ae60;  /* Green for blog */
+} 
