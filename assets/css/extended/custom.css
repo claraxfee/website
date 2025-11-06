@@ -1,9 +1,32 @@
 /* Import fonts */
 @import url('https://fonts.googleapis.com/css2?family=Jersey+M54&display=swap');
 
+h1, h2, a {
+	font-family: 'Courier New', Courier, monospace !important;
+	font-weight: bold;
+}
+
+/*making sure post title and content switch with dark and light mode */
+
+[data-theme="dark"] p {
+	color: white;
+}
+
+[data-theme="dark"] h1.post-title.entry-hint-parent {
+	color: white;
+}
+
+[data-theme="light"] p {
+        color: black;
+}
+
+[data-theme="light"] h1 {
+        color: black;
+}
+
 /* Profile Mode Title */
 .profile-mode .profile-title {
-    font-family: 'Jersey M54', sans-serif !important;
+    font-family: 'Courier New', Courier, monospace !important;
     font-size: 3rem;
     color: #2c3e50;
     text-transform: none;
@@ -14,7 +37,7 @@
 
 /* Profile Mode Subtitle */
 .profile-mode .profile-subtitle {
-    font-family: 'Jersey M54', sans-serif !important;
+    font-family: 'Courier New', Courier, monospace !important;
     font-size: 1.5rem;
     color: #34495e;
     -webkit-font-smoothing: antialiased;
@@ -23,19 +46,19 @@
 
 /* Navigation Menu */
 .menu {
-    font-family: 'Jersey M54', sans-serif;
+    font-family: 'Courier New', Courier, monospace !important;
     font-weight: 600;
 }
 
 /* Blog/Portfolio Post Titles */
 .post-title {
-    font-family: 'Jersey M54', sans-serif;
+    font-family: 'Courier New', Courier, monospace !important;
     color: #2c3e50;
 }
 
 /* Post Content */
 .post-content {
-    font-family: 'Jersey M54', sans-serif;
+    font-family: 'Jersey M54', sans-serif !important;;
     font-size: 1.1rem;
     line-height: 1.6;
     color: #2c3e50;
@@ -43,26 +66,26 @@
 
 /* Links */
 a {
-    color: #974f4f;
+    color: #b92929;
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 a:hover {
-    color: #b92929;
+    color: #ff0000;
 }
 
 /* Buttons */
 .profile-mode .buttons {
-    font-family: 'Jersey M54', sans-serif;
+    font-family: 'Courier New', Courier, monospace !important;
     font-weight: 600;
 }
 
 /* Custom colors for different sections */
 .portfolio .post-title {
-    color: #e74c3c;  /* Red for portfolio */
+    color: #b92929;  /* Red for portfolio */
 }
 
 .blog .post-title {
-    color: #27ae60;  /* Green for blog */
+    color: #24bf3d;  /* Green for blog */
 } 
