@@ -13,7 +13,6 @@ This is my personal website built with [Hugo](https://gohugo.io/) using the [Pap
 4. Visit http://localhost:1313
 
 ## Directory Structure
-
 - `content/`: Contains all the blog posts and pages
 - `static/`: Static assets like images
 - `themes/`: Contains the PaperMod theme
