@@ -95,6 +95,9 @@ params:
     imageTitle: Clara Fee
     imageWidth: 200
     imageHeight: 200
+    buttons:
+      - name: "Hire Me"
+        url: "/hireme/"
     subtitle: "explore my <u>[portfolio](/portfolio/)</u> for my professional projects and work \n\n
     click through my <u>[blog](/blog/)</u> for my thoughts, writing, and personal updates"
 
