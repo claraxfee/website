@@ -57,6 +57,9 @@ languages:
         - name: About
           url: about/
           weight: 4
+        - name: Hire Me
+          url: hireme/
+          weight: 5
 
 outputs:
   home:
@@ -72,7 +75,7 @@ params:
 
   defaultTheme: auto
   # disableThemeToggle: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowReadingTime: true
   # disableSpecial1stPost: true
   displayFullLangName: true
@@ -82,7 +85,7 @@ params:
   ShowRssButtonInSectionTermList: false
   ShowAllPagesInArchive: true
   ShowPageNums: true
-  ShowToc: true
+  ShowToc: false
   ShowPoweredBy: false
 
   # comments: false
@@ -108,15 +111,15 @@ params:
     - name: email
       title: email me
       url: "mailto:claraxfee@gmail.com"
+    - name: LinkedIn
+      title: connect with me on LinkedIn
+      url: "https://www.linkedin.com/in/claraxfee/"
     - name: github
-      title: view my Github profile
+      title: view my GitHub profile
       url: "https://github.com/claraxfee/"
     - name: SubStack
-      title: subscribe to my substack!
+      title: subscribe to my Substack
       url: "https://clarafee.substack.com/"
-    - name: LinkedIn
-      title: connect with me on linkedin
-      url: "https://www.linkedin.com/in/claraxfee/"
 
   # editPost:
   #   URL: "https://github.com/claraxfee/website/tree/main/content"

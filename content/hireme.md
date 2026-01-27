@@ -106,5 +106,5 @@ Database-driven projects including a Reddit-style forum, content management syst
 **Email:** [claraxfee@gmail.com](mailto:claraxfee@gmail.com)
 **LinkedIn:** [linkedin.com/in/claraxfee](https://www.linkedin.com/in/claraxfee/)
 **GitHub:** [github.com/claraxfee](https://github.com/claraxfee/)
-**Portfolio:** [clarafee.xyz/portfolio](/portfolio/)
+**Substack:** [clarafee.substack.com](https://clarafee.substack.com/)
 

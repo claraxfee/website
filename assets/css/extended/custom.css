@@ -1,96 +1,85 @@
-/* Import fonts */
-@import url('https://fonts.googleapis.com/css2?family=Jersey+M54&display=swap');
+/* =============================================
+   Clara Fee - Terminal/Monospace Theme
+   ============================================= */
 
-h1, h2, a {
-	font-family: 'Courier New', Courier, monospace !important;
-	font-weight: bold;
+/* Override PaperMod color variables */
+:root {
+    --accent: #d62828;
+    --accent-hover: #ff0000;
+    --accent-alt: #2d6a4f;
 }
 
-/*making sure post title and content switch with dark and light mode */
-
-[data-theme="dark"] p {
-	color: white;
+[data-theme="dark"] {
+    --accent: #ef233c;
+    --accent-hover: #ff4d4d;
+    --accent-alt: #52b788;
 }
 
-[data-theme="dark"] h1.post-title.entry-hint-parent {
-	color: white;
+/* Base typography - monospace everywhere */
+body {
+    font-family: 'Courier New', Courier, monospace;
 }
 
-[data-theme="light"] p {
-        color: black;
-}
-
-[data-theme="light"] h1 {
-        color: black;
-}
-
-/* Profile Mode Title */
-.profile-mode .profile-title {
+h1, h2, h3, h4, h5, h6,
+a,
+.menu,
+.post-title,
+.profile-mode .profile-title,
+.profile-mode .profile-subtitle,
+.profile-mode .buttons {
     font-family: 'Courier New', Courier, monospace !important;
-    font-size: 3rem;
-    color: #2c3e50;
+}
+
+/* Headings */
+h1, h2, h3 {
+    font-weight: bold;
+    color: var(--primary);
+}
+
+/* Profile Mode */
+.profile-mode .profile-title {
+    font-size: 2.5rem;
     text-transform: none;
     letter-spacing: 0;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
 }
 
-/* Profile Mode Subtitle */
 .profile-mode .profile-subtitle {
-    font-family: 'Courier New', Courier, monospace !important;
-    font-size: 1.5rem;
-    color: #34495e;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+    font-size: 1.25rem;
+    opacity: 0.85;
 }
 
-/* Navigation Menu */
-.menu {
-    font-family: 'Courier New', Courier, monospace !important;
-    font-weight: 600;
-}
-
-/* Blog/Portfolio Post Titles */
-.post-title {
-    font-family: 'Courier New', Courier, monospace !important;
-    color: #2c3e50;
-}
-
-/* Post Content */
+/* Post content */
 .post-content {
-    font-family: 'Jersey M54', sans-serif !important;;
-    font-size: 1.1rem;
-    line-height: 1.6;
-    color: #2c3e50;
+    font-size: 1.05rem;
+    line-height: 1.7;
 }
 
 /* Links */
 a {
-    color: #b92929;
+    color: var(--accent);
     text-decoration: none;
-    transition: color 0.3s ease;
+    transition: color 0.2s ease;
 }
 
 a:hover {
-    color: #ff0000;
+    color: var(--accent-hover);
 }
 
-/* Buttons */
-.profile-mode .buttons {
-    font-family: 'Courier New', Courier, monospace !important;
-    font-weight: 600;
-}
-
-/* Custom colors for different sections */
+/* Post titles by section */
+.portfolio .post-title a,
 .portfolio .post-title {
-    color: #b92929;  /* Red for portfolio */
+    color: var(--accent);
 }
 
+.blog .post-title a,
 .blog .post-title {
-    color: #24bf3d;  /* Green for blog */
+    color: var(--accent-alt);
 }
 
-/* Hire Me Page Styles */
+/* =============================================
+   Hire Me Page
+   ============================================= */
+
 .hire-hero {
     text-align: center;
     margin-bottom: 2rem;
@@ -109,16 +98,17 @@ a:hover {
 .hire-cta a {
     display: inline-block;
     padding: 0.5rem 1rem;
-    border: 2px solid var(--primary);
+    border: 2px solid var(--accent);
+    color: var(--accent);
     margin: 0 0.25rem;
 }
 
 .hire-cta a:hover {
-    background: var(--primary);
+    background: var(--accent);
     color: var(--theme);
 }
 
-/* Skills Grid - 3 columns */
+/* Skills Grid */
 .skills-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -129,7 +119,7 @@ a:hover {
 .skill-column h3 {
     font-size: 1.1rem;
     margin-bottom: 0.75rem;
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid var(--accent);
     padding-bottom: 0.5rem;
 }
 
@@ -159,7 +149,7 @@ a:hover {
     margin-bottom: 0.5rem;
 }
 
-/* Responsive: stack columns on mobile */
+/* Responsive */
 @media (max-width: 768px) {
     .skills-grid {
         grid-template-columns: 1fr;
@@ -167,6 +157,10 @@ a:hover {
     }
 
     .hire-hero h2 {
+        font-size: 2rem;
+    }
+
+    .profile-mode .profile-title {
         font-size: 2rem;
     }
 }
