@@ -12,7 +12,7 @@ summary: "Hire Clara Fee"
 
 <div class="hire-cta">
 
-[Contact Me](mailto:claraxfee@gmail.com) | [Download Resume](/files/clara_fee_resume.pdf)
+[Contact Me](mailto:claraxfee@gmail.com) | [Download Resume](/files/Clara_Fee_Resume.pdf)
 
 </div>
 </div>
@@ -67,7 +67,7 @@ summary: "Hire Clara Fee"
 
 <div class="work-item">
 
-### WebApps & Technical Projects
+### [WebApps & Technical Projects](/portfolio)
 See [portfolio](/portfolio/) for details. Projects include a full-stack college calendar site, a fun site for making beaded curtains, a cute Tamagotchi chrome extention to maximize productivity, and more.
 
 </div>
