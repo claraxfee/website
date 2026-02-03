@@ -8,9 +8,7 @@ summary: "Hire Clara Fee"
 <div class="hire-hero">
 
 ## Clara Fee
-**Computer Scientist & Digital Humanist**
-
-Building technology for social impact, education, and cultural preservation.
+**computer science, tech for social impact and education, cool websites, building better internet**
 
 <div class="hire-cta">
 
@@ -23,10 +21,10 @@ Building technology for social impact, education, and cultural preservation.
 
 ## What I'm Looking For
 
-- Interdisciplinary roles in **New York City** (or remote-friendly)
+- Interdisciplinary roles in **NYC, Philadelphia, Chicago, Seattle, SF**, or remote-friendly
 - Civic tech, digital humanities, edtech, mission-driven startups
-- Organizations using technology for community impact
-- **Available: May 2026**
+- Any organizations using technology for community impact
+- **Available to Work: May 2026**
 
 ---
 
@@ -39,7 +37,6 @@ Building technology for social impact, education, and cultural preservation.
 
 - Full-stack web development
 - Python, JavaScript, SQL
-- Database design & APIs
 - AI/ML fundamentals
 
 </div>
@@ -47,7 +44,6 @@ Building technology for social impact, education, and cultural preservation.
 
 ### Humanities
 
-- Film & media analysis
 - Spanish fluency
 - Digital archives & preservation
 - Cross-cultural collaboration
@@ -57,7 +53,7 @@ Building technology for social impact, education, and cultural preservation.
 
 ### Leadership
 
-- Radio station manager
+- College radio station manager
 - CS Teaching Assistant
 - IT Help Desk (3.5 years)
 - Budget & operations management
@@ -71,8 +67,15 @@ Building technology for social impact, education, and cultural preservation.
 
 <div class="work-item">
 
+### WebApps & Technical Projects
+See [portfolio](/portfolio/) for details. Projects include a full-stack college calendar site, a fun site for making beaded curtains, a cute Tamagotchi chrome extention to maximize productivity, and more.
+
+</div>
+
+<div class="work-item">
+
 ### [Ticha Project](https://ticha.haverford.edu/)
-Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for colonial-era documents.
+Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for digital archive of colonial-era texts. Sponsored research by Haverford College Digital Scholarship. 
 
 </div>
 
@@ -83,20 +86,13 @@ Rebuilt the digital infrastructure for Bryn Mawr's community radio station, incl
 
 </div>
 
-<div class="work-item">
-
-### Full-Stack Web Applications
-Database-driven projects including a Reddit-style forum, content management systems, and responsive web applications. See [portfolio](/portfolio/) for details.
-
-</div>
-
 ---
 
 ## Background
 
 - **CS & Spanish double major**, Film minor
 - Bryn Mawr College, Class of 2026
-- 3.92 GPA
+- 3.82 GPA
 - Research interests: HCI, educational technology, digital preservation
 
 ---
