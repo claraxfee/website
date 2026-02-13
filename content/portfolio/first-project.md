@@ -16,3 +16,5 @@ I worked on this project for most of the school year in my free time. Since its 
 ## Skills and technologies
 For ease of use, both in future maintenence and development, I used Wordpress with some additional customization via CSS. 
 
+## Link 
+Check out the website at [whrc-radio.com]{whrc-radio.com}. 

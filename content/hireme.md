@@ -19,7 +19,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## What I'm Looking For
+## looking for:
 
 - Interdisciplinary roles in **NYC, Philadelphia, Chicago, Seattle, SF**, or remote-friendly
 - Civic tech, digital humanities, edtech, mission-driven startups
@@ -28,7 +28,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## What I Bring
+## i bring:
 
 <div class="skills-grid">
 <div class="skill-column">
@@ -63,7 +63,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## Selected Work
+## some of my work:
 
 <div class="work-item">
 
