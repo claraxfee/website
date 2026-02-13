@@ -12,31 +12,31 @@ summary: "Hire Clara Fee"
 
 <div class="hire-cta">
 
-[Contact Me](mailto:claraxfee@gmail.com) | [Download Resume](/files/Clara_Fee_Resume.pdf)
+[Contact Me](mailto:claraxfee@gmail.com)      |      [Download Resume](/files/Clara_Fee_Resume.pdf)
 
 </div>
 </div>
 
 ---
 
-## looking for:
+## $ i am looking for:
 
-- Interdisciplinary roles in **NYC, Philadelphia, Chicago, Seattle, SF**, or remote-friendly
-- Civic tech, digital humanities, edtech, mission-driven startups
-- Any organizations using technology for community impact
+- interdisciplinary roles in **Seattle, Philadelphia, NYC, Chicago, SF**, or remote-friendly
+- civic tech, digital humanities, edtech, mission-driven startups
+- any organizations using technology for community impact
 - **Available to Work: May 2026**
 
 ---
 
-## i bring:
+## $ some things i bring
 
 <div class="skills-grid">
 <div class="skill-column">
 
 ### Technical
 
-- Full-stack web development
-- Python, JavaScript, SQL
+- Fluent Java, C, Python; some JavaScript, HTML/CSS, SQL
+- Full-stack web development 
 - AI/ML fundamentals
 
 </div>
@@ -47,6 +47,7 @@ summary: "Hire Clara Fee"
 - Spanish fluency
 - Digital archives & preservation
 - Cross-cultural collaboration
+- Community organization
 
 </div>
 <div class="skill-column">
@@ -63,7 +64,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## some of my work:
+## some examples of my work:
 
 <div class="work-item">
 
@@ -75,14 +76,21 @@ See [portfolio](/portfolio/) for details. Projects include a full-stack college 
 <div class="work-item">
 
 ### [Ticha Project](https://ticha.haverford.edu/)
-Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for digital archive of colonial-era texts. Sponsored research by Haverford College Digital Scholarship. 
+Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for digital archive of colonial-era texts. Sponsored research by Haverford College Digital Scholarship under Anna Lacy. Summer 2025. 
+
+</div>
+
+<div class="work-item">
+
+### [Summer Science Research Program](https://www.linkedin.com/posts/claraxfee_last-week-i-presented-my-research-from-this-activity-7386151407873339392-cZOn)
+Automated unit test generation pipeline for software engineering applications with neural editing model. As part of research, evaluated bug-finding capability against 854 real-world Java bugs, contributing to advancements in automated testing that reduce manual effort while improving code correctness. Sponsored research by Bryn Mawr College under Elizabeth Dinella. Summer 2025.
 
 </div>
 
 <div class="work-item">
 
 ### WHRC Radio Infrastructure
-Rebuilt the digital infrastructure for Bryn Mawr's community radio station, including training documentation, scheduling systems, and broadcast tools.
+Rebuilt the digital infrastructure for Bryn Mawr's community radio station, including training documentation, scheduling systems, and broadcast tools. See this [portfolio](/portfolio/first_project.md) post for more. 
 
 </div>
 
