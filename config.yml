@@ -96,8 +96,8 @@ params:
     title: hello, world! i'm clara fee!
     imageUrl: "/images/clara_fee_headshot.jpg"
     imageTitle: Clara Fee
-    imageWidth: 200
-    imageHeight: 200
+    imageWidth: 335
+    imageHeight: 397
     buttons:
       - name: "Hire Me"
         url: "/hireme/"
