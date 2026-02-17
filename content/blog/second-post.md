@@ -31,22 +31,23 @@ Maybe I will run away to a cabin in the woods and never speak to anyone ever aga
 
 STANDING AND NOT SITTING
 
-One
+One  
+
 I am at my worst when I am thinking of myself as an angry person, when I am doing anger. 
 
-Two
+Two  
 I feel most angry, most potently, when I am confronted with incompetence, empty authority, helplessness, unfairness and (most deeply and potently of all) injustice; I feel it physically and quickly,
 down the body,
 lumped together with a shock behind the eyelids and a burning through the esophogus. 
 
-Three
+Three  
 There was a line in a poem I wrote a long time ago: "For me, it is hard to sympathize with inability."
 I struggle iwth anger because the thing towards which I am angry, mostly---
 by simple majority---is myself---
 ---my orientation is selfwards, too often. 
 So much---most?---of my external anger is externalized anger, and I often regret its expression.
 
-Four
+Four  
 Not always, though.
 
 Five
