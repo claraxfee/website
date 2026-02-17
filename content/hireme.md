@@ -8,7 +8,7 @@ summary: "Hire Clara Fee"
 <div class="hire-hero">
 
 ## Clara Fee
-**computer science, tech for social impact and education, cool websites, building better internet**
+**computer science, tech for social impact and education, building better internet**
 
 <div class="hire-cta">
 
@@ -19,7 +19,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## $ i am looking for:
+## i am looking for:
 
 - interdisciplinary roles in **Seattle, Philadelphia, NYC, Chicago, SF**, or remote-friendly
 - civic tech, digital humanities, edtech, mission-driven startups
@@ -28,14 +28,15 @@ summary: "Hire Clara Fee"
 
 ---
 
-## $ some things i bring
+## some things i bring to the table
 
 <div class="skills-grid">
 <div class="skill-column">
 
 ### Technical
 
-- Fluent Java, C, Python; some JavaScript, HTML/CSS, SQL
+- Fluent Java, C, Python
+- Proficient JavaScript, HTML/CSS, SQL
 - Full-stack web development 
 - AI/ML fundamentals
 
@@ -96,16 +97,16 @@ Rebuilt the digital infrastructure for Bryn Mawr's community radio station, incl
 
 ---
 
-## Background
+## my background
 
-- **CS & Spanish double major**, Film minor
+- **CS & Spanish (concentration in Spanish Film) double major**, Film minor
 - Bryn Mawr College, Class of 2026
 - 3.82 GPA
 - Research interests: HCI, educational technology, digital preservation
 
 ---
 
-## Let's Connect
+## get in touch!
 
 **Email:** [claraxfee@gmail.com](mailto:claraxfee@gmail.com)
 **LinkedIn:** [linkedin.com/in/claraxfee](https://www.linkedin.com/in/claraxfee/)
