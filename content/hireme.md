@@ -8,7 +8,7 @@ summary: "Hire Clara Fee"
 <div class="hire-hero">
 
 ## Clara Fee
-**computer science, tech for social impact and education, building better internet**
+**computer science, tech for social impact and education, bridging technical & non-technical worlds**
 
 <div class="hire-cta">
 
@@ -37,8 +37,9 @@ summary: "Hire Clara Fee"
 
 - Fluent Java, C, Python
 - Proficient JavaScript, HTML/CSS, SQL
-- Full-stack web development 
+- Full-stack web development
 - AI/ML fundamentals
+- IT Help Desk skills
 
 </div>
 <div class="skill-column">
@@ -65,6 +66,16 @@ summary: "Hire Clara Fee"
 
 ---
 
+## why hire me?
+
+- i am extremely **detail oriented** and **organized**. i care about the little things, because they add up to big things
+- i can run a meeting like nobody's business
+- peers, colleagues, mentors, and patrons at my Help Desk job often comment on my ability to **explain difficult or technical concepts intuitively and accessibly**
+- bad design, inefficiency, and poor planning make my blood boil
+- **i am a highly serious person who cares deeply about technology and building a better world**
+
+---
+
 ## some examples of my work:
 
 <div class="work-item">
@@ -76,8 +87,8 @@ See [portfolio](/portfolio/) for details. Projects include a full-stack college 
 
 <div class="work-item">
 
-### [Ticha Project](https://ticha.haverford.edu/)
-Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for digital archive of colonial-era texts. Sponsored research by Haverford College Digital Scholarship under Anna Lacy. Summer 2025. 
+### [Ticha Project Web Design](https://ticha.haverford.edu/)
+Digital humanities platform preserving Indigenous Zapotec texts. Built search interfaces and contributed to linguistic annotation tools for digital archive of colonial-era texts. Sponsored research by Haverford College Digital Scholarship under Anna Lacy. Summer 2025.
 
 </div>
 
@@ -105,6 +116,15 @@ Rebuilt the digital infrastructure for Bryn Mawr's community radio station, incl
 - Research interests: HCI, educational technology, digital preservation
 
 ---
+
+# currently, i'm:
+
+- **IT Help Desk Student Manager** (3.5 years), where I've developed deep expertise in troubleshooting, user education, and cross-platform support
+- **Research Assistant** under Deepak Kumar at Bryn Mawr College, investigating (among other things) undergraduate use of AI in higher education settings
+- **Station Manager @ WHRC Radio**, managing our college radio station and building digital infrastructure for student broadcasters
+- **CS Teaching Assistant**, helping students master data structures and algorithmic thinking
+- **Budget Manager @ Batten Haus Living Cooperative**, where I manage our semesterly and yearly budget, coordinate our fundraising efforts, and fight for sustainability and environmental justice
+- **Film Projectionist** with the Film Studies department, hosting weekly screenings
 
 ## get in touch!
 
