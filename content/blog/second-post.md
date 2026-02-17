@@ -19,9 +19,9 @@ Everyone is secretly rich. It is illegal to laugh and it is a burden to be here.
 
 I feel good but not good enough. I think about a RADICAL FUTURE. Are you still there, God? It’s me, Margaret. When I was a child my father told me that our family cat went to heaven. Then the next day he said that, actually, nobody knows what happens after anybody dies, including the cat. I was spitting howling mad. 
 
-I am financially non-catastrophic. In fact I am quite financially sustainable. What if I had a trust fund? Would it make me a better person? Will my mother work until she keels over, 86 and decrepit, on the job? I want to buy my mom a house. It feels centering, like meditation. I have a binary perception of nothing, hand-to-God-on-my-momma, except for everything about myself and my abilities and my body and my clothing choices. I want to establish a regime. I want to start over from scratch and do it right this time. Nobody can call themselves anything.
+I am financially non-catastrophic. In fact I am quite financially sustainable. What if I had a trust fund? Would it make me a better person? Will my mother work until she keels over, eighty-six and decrepit, on the job? I want to buy my mom a house. It feels centering, like meditation. I have a binary perception of nothing, hand-to-God-on-my-momma, except for everything about myself and my abilities and my body and my clothing choices. I want to establish a regime. I want to start over from scratch and do it right this time. Nobody can call themselves anything.
 
-When the last terrible evil figure in my life told me he wanted to run away to a cabin in the woods and never speak to anyone ever again I was spitting mad. For me it is hard to sympathize with inability. 
+When the last terrible evil figure in my life told me he wanted to run away to a cabin in the woods and never speak to anyone ever again I was spitting mad. For me it is hard to sympathize with inability.
 
 What happens if my body gives out? I want a RADICAL FUTURE. I can’t even imagine myself less a couple square inches of flesh. It’s impossible for me to un-tether myself from Google Calendar. I know that it’s possible because other people tell me so.
 
@@ -35,8 +35,8 @@ One
 I am at my worst when I am thinking of myself as an angry person, when I am doing anger. 
 
 Two
-I feel most angry, most potently, when I am confronted with incompetence, empty authority, helplessness, unfairness and (most deeply and potently of all) injustice; I feel it physically and quickly, 
-down the body, 
+I feel most angry, most potently, when I am confronted with incompetence, empty authority, helplessness, unfairness and (most deeply and potently of all) injustice; I feel it physically and quickly,
+down the body,
 lumped together with a shock behind the eyelids and a burning through the esophogus. 
 
 Three
