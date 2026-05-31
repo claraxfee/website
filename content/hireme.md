@@ -24,7 +24,7 @@ summary: "Hire Clara Fee"
 - interdisciplinary roles in **Seattle, Philadelphia, NYC, Chicago, SF**, or remote-friendly
 - civic tech, digital humanities, edtech, mission-driven startups
 - any organizations using technology for community impact
-- **Available to Work: May 2026**
+- **Available immediately**
 
 ---
 
@@ -112,18 +112,18 @@ Rebuilt the digital infrastructure for Bryn Mawr's community radio station, incl
 
 - **CS & Spanish (concentration in Spanish Film) double major**, Film minor
 - Bryn Mawr College, Class of 2026
-- 3.82 GPA
+- 3.85 GPA
 - Research interests: HCI, educational technology, digital preservation
 
 ---
 
-# currently, i'm:
+## previously, i was:
 
-- **IT Help Desk Student Manager** (3.5 years), where I've developed deep expertise in troubleshooting, user education, and cross-platform support
-- **Research Assistant** under Deepak Kumar at Bryn Mawr College, investigating (among other things) undergraduate use of AI in higher education settings
-- **Station Manager @ WHRC Radio**, managing our college radio station and building digital infrastructure for student broadcasters
+- **IT Help Desk Student Manager** (3.5 years), where I developed deep expertise in troubleshooting, user education, and cross-platform support
+- **Research Assistant** under Deepak Kumar at Bryn Mawr College, investigating undergraduate use of AI in higher education settings
+- **Station Manager @ WHRC Radio**, managing the college radio station and building digital infrastructure for student broadcasters
 - **CS Teaching Assistant**, helping students master data structures and algorithmic thinking
-- **Budget Manager @ Batten Haus Living Cooperative**, where I manage our semesterly and yearly budget, coordinate our fundraising efforts, and fight for sustainability and environmental justice
+- **Budget Manager @ Batten Haus Living Cooperative**, where I managed the semesterly and yearly budget, coordinated fundraising efforts, and fought for sustainability and environmental justice
 - **Film Projectionist** with the Film Studies department, hosting weekly screenings
 
 ## get in touch!

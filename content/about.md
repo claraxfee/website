@@ -7,7 +7,7 @@ summary: "About Clara Fee"
 
 Hi there! I'm Clara Fee. Thanks for being here.
 
-I'm a soon-to-be-newgrad Computer Science and Spanish double major at Bryn Mawr College ('26) with a minor in Film Studies. I want to build technology that amplifies underrepresented voices and makes digital spaces more accessible.
+I'm a recent Computer Science and Spanish graduate from Bryn Mawr College ('26) with a minor in Film Studies. I want to build technology that amplifies underrepresented voices and makes digital spaces more accessible.
 
 ### what I do:
 
