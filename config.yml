@@ -189,4 +189,3 @@ services:
     disableInlineCSS: true
 
 
-FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
