@@ -69,7 +69,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Clara Fee - CS & Spanish student building technology for social good. Portfolio of digital humanities, web development, and accessibility projects."
+  description: "Clara Fee - tech for social good"
   keywords: ["software developer", "digital humanities", "civic technology", "web development", "accessibility", "bilingual"]  
   author: "Clara Fee"
 
@@ -187,3 +187,6 @@ services:
     disableInlineCSS: true
   twitter:
     disableInlineCSS: true
+
+
+FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
