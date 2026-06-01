@@ -81,7 +81,7 @@ summary: "Hire Clara Fee"
 <div class="work-item">
 
 ### [WebApps & Technical Projects](/portfolio)
-See [portfolio](/portfolio/) for details. Projects include a full-stack college calendar site, a fun site for making beaded curtains, a cute Tamagotchi chrome extention to maximize productivity, and more.
+See [portfolio](/portfolio/) for details. Projects include a full-stack college calendar site, a cute Tamagotchi chrome extension to maximize productivity, and more.
 
 </div>
 
