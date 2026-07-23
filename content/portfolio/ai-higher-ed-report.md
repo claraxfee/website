@@ -17,7 +17,7 @@ The report covers three areas of investigation:
 
 ## Timeline and scope
 
-Academic year 2025–2026. Ongoing research assistantship under Deepak Kumar at Bryn Mawr College.
+Academic year 2025–2026. Research assistantship under Deepak Kumar at Bryn Mawr College.
 
 ## Skills and technologies
 

@@ -112,7 +112,7 @@ Rebuilt the digital infrastructure for Bryn Mawr's community radio station, incl
 
 - **CS & Spanish (concentration in Spanish Film) double major**, Film minor
 - Bryn Mawr College, Class of 2026
-- 3.85 GPA
+- 3.82 GPA
 - Research interests: HCI, educational technology, digital preservation
 
 ---

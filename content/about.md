@@ -27,7 +27,7 @@ I'm fluent in Spanish and have experience working across cultures; these skills 
 ### you can also find me:
 - Hosted a weekly radio show at [whrc-radio.com](https://whrc-radio.com)
 - Watching horror movies, always
-- Writing about technology, internet culture, film, and cooking [blog](https://clarafee.xyz/blog)
+- Writing about technology, internet culture, film, and cooking [blog](https://clarafee.com/blog)
 
 ### get in touch:
 

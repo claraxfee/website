@@ -38,11 +38,11 @@ I am at my worst when I am thinking of myself as an angry person, when I am doin
 Two  
 I feel most angry, most potently, when I am confronted with incompetence, empty authority, helplessness, unfairness and (most deeply and potently of all) injustice; I feel it physically and quickly,
 down the body,
-lumped together with a shock behind the eyelids and a burning through the esophogus. 
+lumped together with a shock behind the eyelids and a burning through the esophagus. 
 
 Three  
 There was a line in a poem I wrote a long time ago: "For me, it is hard to sympathize with inability."
-I struggle iwth anger because the thing towards which I am angry, mostly---
+I struggle with anger because the thing towards which I am angry, mostly---
 by simple majority---is myself---
 ---my orientation is selfwards, too often. 
 So much---most?---of my external anger is externalized anger, and I often regret its expression.
@@ -61,7 +61,7 @@ I am getting a little bit angry writing this.
 
 Seven
 Lucky number seven. So where is all my anger?
-There seem to be plenty of outlets for it now. More than there ever have been, if soem are to be believed. 
+There seem to be plenty of outlets for it now. More than there ever have been, if some are to be believed. 
 At best, it's low simmering and calm; at best, it's standing and not sitting.
 At best it's quieting the fear to stone. 
 I think deeply about things; most things, even, though I can't claim they are the right ones. 
