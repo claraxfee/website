@@ -1,5 +1,5 @@
 ---
-title: "El sonido y la autoría en la «trilogía Salta» de Lucretia Martel"
+title: "El sonido y la autoría en la «trilogía Salta» de Lucrecia Martel"
 date: 2025-12-02
 draft: false
 tags: ["portfolio"]

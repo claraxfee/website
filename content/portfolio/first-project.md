@@ -8,13 +8,18 @@ tags: ["portfolio"]
 
 ## About
 
-In my first year with the WHRC Radio Club on my campus, I helped to design and create their home page website. This website was the first web design project I ever took on. I worked collaboratively with the Radio Club founders to implement a user-friendly and easily navigatable interface to help build listenership and encourage people to join the club. 
+As Station Manager of WHRC Radio Club at Bryn Mawr and Haverford Colleges, I designed and built the station's public-facing website from the ground up — my first web design project. I worked with the club founders to implement a user-friendly interface aimed at building listenership and encouraging new members to join. Over four years, I maintained and updated the site, including coverage of events like WHRC's 100th anniversary.
 
-## Timeline and scope 
-I worked on this project for most of the school year in my free time. Since its completion, I've made occasional changes and updates, including adding new posts for our events such as the 100th anniversary of WHRC. 
+Beyond the website, I led station operations: equipment management, scheduling systems, broadcast tools, training documentation for new DJs, and coordinating with campus music organizations for on-air programming.
+
+## Timeline and scope
+
+Spring 2022 – May 2026. Ongoing maintenance and operations throughout my time at Bryn Mawr College.
 
 ## Skills and technologies
-For ease of use, both in future maintenence and development, I used Wordpress with some additional customization via CSS. 
 
-## Link 
-Check out the website at [whrc-radio.com]{whrc-radio.com}. 
+WordPress, CSS, radio broadcast operations, training documentation, scheduling systems
+
+## Link
+
+[whrc-radio.com](https://whrc-radio.com)

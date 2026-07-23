@@ -102,7 +102,7 @@ Automated unit test generation pipeline for software engineering applications wi
 <div class="work-item">
 
 ### WHRC Radio Infrastructure
-Rebuilt the digital infrastructure for Bryn Mawr's community radio station, including training documentation, scheduling systems, and broadcast tools. See this [portfolio](/portfolio/first_project.md) post for more. 
+Rebuilt the digital infrastructure for Bryn Mawr's community radio station, including training documentation, scheduling systems, and broadcast tools. See this [portfolio](/portfolio/first-project/) post for more. 
 
 </div>
 

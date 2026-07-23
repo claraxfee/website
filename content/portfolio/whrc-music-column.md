@@ -17,7 +17,7 @@ A music column I started in early 2026 for [The Bi-College News](https://bicolle
 
 ## Timeline and scope
 
-Spring 2026. Ongoing alongside my role as Station Manager at WHRC Radio.
+Spring 2026. Written alongside my role as Station Manager at WHRC Radio.
 
 ## Skills and technologies
 

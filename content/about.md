@@ -25,9 +25,9 @@ My projects reflect my commitment to thoughtful, human-centered technology. See 
 I'm fluent in Spanish and have experience working across cultures; these skills inform how I think about inclusive design and international collaboration.
 
 ### you can also find me:
-- Hosting my weekly radio show, Mondays 5-6 at [whrc-radio.com](whrc-radio.com)
+- Hosted a weekly radio show at [whrc-radio.com](https://whrc-radio.com)
 - Watching horror movies, always
-- Writing about technology, internet culture, film, and cooking [[blog]](clarafee.xyz/blog)
+- Writing about technology, internet culture, film, and cooking [blog](https://clarafee.xyz/blog)
 
 ### get in touch:
 
