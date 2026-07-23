@@ -15,7 +15,7 @@ I care about technology and social impact, user experience, social computing, an
 
 ### what I've built:
 
-My projects reflect my commitment to thoughtful, human-centered technology. See my portfolio [here](https://clarafee.xyz/portfolio/)
+My projects reflect my commitment to thoughtful, human-centered technology. See my portfolio [here](https://clarafee.com/portfolio/)
 
 - **Digital humanities research** with the [Ticha Project](https://ticha.haverford.edu/), creating digital archives for Indigenous Zapotec languages
 - **Community websites** for campus organizations, prioritizing accessibility and ease of maintenance
