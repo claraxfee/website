@@ -12,7 +12,7 @@ summary: "Hire Clara Fee"
 
 <div class="hire-cta">
 
-[Contact Me](mailto:claraxfee@gmail.com)      |      [Download Resume](/files/Clara_Fee_Resume.pdf)
+[Contact Me](mailto:claraxfee@gmail.com)      |      [View Resume](/files/Clara_Fee_Resume.pdf)
 
 </div>
 </div>
@@ -28,7 +28,7 @@ summary: "Hire Clara Fee"
 
 ---
 
-## what you can't see on my resume
+## what's not on my resume:
 
 **i love hard tickets!** 
 

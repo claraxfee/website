@@ -7,27 +7,18 @@ summary: "About Clara Fee"
 
 Hi there! I'm Clara Fee. Thanks for being here.
 
-I'm a recent Computer Science and Spanish graduate from Bryn Mawr College ('26) with a minor in Film Studies. I want to build technology that amplifies underrepresented voices and makes digital spaces more accessible.
+I'm a recent Computer Science and Spanish graduate from Bryn Mawr College ('26) with a minor in Film Studies. I live in Philadelphia. 
 
-### what I do:
+### personally:
 
 I care about technology and social impact, user experience, social computing, and good design. My work spans web development, digital humanities, nonprofit logistics and fundraising, and community organizing. I believe technology should serve the people; I'm particularly interested in how we can use tech to improve digital literacy and better our collective experiences online.
 
-### what I've built:
-
-My projects reflect my commitment to thoughtful, human-centered technology. See my portfolio [here](https://clarafee.com/portfolio/)
-
-- **Digital humanities research** with the [Ticha Project](https://ticha.haverford.edu/), creating digital archives for Indigenous Zapotec languages
-- **Community websites** for campus organizations, prioritizing accessibility and ease of maintenance
-- **Technical tools** like image processing algorithms
-- **Database-driven web applications** front-end design with back-end architecture
-
-I'm fluent in Spanish and have experience working across cultures; these skills inform how I think about inclusive design and international collaboration.
 
 ### you can also find me:
-- Hosted a weekly radio show at [whrc-radio.com](https://whrc-radio.com)
-- Watching horror movies, always
-- Writing about technology, internet culture, film, and cooking [blog](https://clarafee.com/blog)
+- In my kitchen making pickles and pie 
+- Watching movies, always (see my letterboxd [here](https://boxd.it/1WWaf))
+- Roller skating & roller blading 
+- Writing about technology, internet culture, film, and cooking: [blog](ttps://clarafee.substack.com/)
 
 ### get in touch:
 
