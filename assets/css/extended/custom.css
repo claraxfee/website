@@ -48,10 +48,26 @@ h1, h2, h3 {
     opacity: 0.85;
 }
 
+/* Base font size bump */
+body {
+    font-size: 1.1rem;
+}
+
 /* Post content */
 .post-content {
-    font-size: 1.05rem;
+    font-size: 1.1rem;
     line-height: 1.7;
+}
+
+/* Nav and logo 2x */
+.logo a,
+.logo span {
+    font-size: 2rem !important;
+}
+
+#menu-btn,
+.menu a {
+    font-size: 2rem !important;
 }
 
 /* Links */
