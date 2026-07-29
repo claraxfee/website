@@ -32,15 +32,15 @@ summary: "Hire Clara Fee"
 
 **i love hard tickets!** 
 
-Three and a half years at a college help desk means i've been called in for projector issues ten minutes before lecture starts and troubleshooted dead laptops in the middle of finals.  I stay calm, ask the right questions, and never make anyone feel dumb for lack of knowledge
+I worked for three and a half years at a college help desk. I stay calm, ask the right questions, and never make anyone feel dumb for not knowing something. I get genuine fulfullment from solving problems, especially when it's a real challenge and especially when I get to be helpful. 
 
-**i kept a college radio station running with all-volunteer staff.** 
+**i'm good with large-scale technical projects** 
 
-WHRC is entirely student run. This means our DJs usually come in with zero broadcast experience and high turnover. The only way this works is documentation and training that people actually use! I wrote it, tested it on our newbies, and rewrote it when it stopped working. This is exactly how good support teams run on their knowledge base.
+I was the station manager at WHRC Radio, which is entirely student run. Our DJs come in with zero broadcast experience and high turnover, which means that documentation and training that people actually use is absolutely necessary. We couldn't function without it. I rewrote all of our documentation, tested it on our newbies, and rewrote when necessary. This is exactly how large scale technical projects keep running. 
 
-**i've done requirements-gathering the hard way.** 
+**i know how to manage diverse expectations and requirements** 
 
-On the [Ticha Project](https://ticha.haverford.edu/), my 'users' were historians, linguists, librarians, and Zapotec community members. In other words, people with strong opinions about the work and no interest in WordPress internals or using GitHub. My job was to hear what they needed, translate it into something workable, and check back that I'd gotten it right. I learned to manage diverse stakeholders on a project where getting it wrong would have meant failing a community, not just a sprint.
+On the [Ticha Project](https://ticha.haverford.edu/), my 'users' were historians, linguists, librarians, and Zapotec community members. In other words, people with strong opinions about the work and no interest in the technical details. My job was to hear what they needed, translate it into something workable, and check back that I'd gotten it right. I learned to manage diverse stakeholders on a project where getting it wrong would have meant failing a community, not just a sprint.
 
 **i write, a lot** 
 

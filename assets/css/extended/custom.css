@@ -65,7 +65,12 @@ body {
 }
 
 #menu a {
-    font-size: 2rem !important;
+    font-size: 1.5rem !important;
+    text-decoration: underline;
+}
+
+#menu a:hover {
+    text-decoration: none; 
 }
 
 /* Links */
@@ -77,6 +82,7 @@ a {
 
 a:hover {
     color: var(--accent-hover);
+    text-decoration: none;
 }
 
 /* Post titles by section */

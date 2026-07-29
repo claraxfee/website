@@ -13,7 +13,6 @@ I'm a recent Computer Science and Spanish graduate from Bryn Mawr College ('26) 
 
 I care about technology and social impact, user experience, social computing, and good design. My work spans web development, digital humanities, nonprofit logistics and fundraising, and community organizing. I believe technology should serve the people; I'm particularly interested in how we can use tech to improve digital literacy and better our collective experiences online.
 
-
 ### you can also find me:
 - In my kitchen making pickles and pie 
 - Watching movies, always (see my letterboxd [here](https://boxd.it/1WWaf))
