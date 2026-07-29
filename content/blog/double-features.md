@@ -11,8 +11,8 @@ ___
 
 <table>
   <tr>
-    <td><img src="/images/ocean.png/" width="200"></td>
-    <td><img src="/images/burn.png/" width="200"></td>
+    <td><img src="/images/ocean.png" width="200"></td>
+    <td><img src="/images/burn.png" width="200"></td>
   </tr>
 </table>
 
@@ -23,7 +23,7 @@ Two very excellent, very funny, fast-paced movies featuring both George Clooney 
 
 <table>
   <tr>
-    <td><img src="/images/woman.png/" width="200"></td>
+    <td><img src="/images/woman.png" width="200"></td>
     <td><img src="/images/women.png" width="200"></td>
   </tr>
 </table>
@@ -34,7 +34,7 @@ For no other reason than the titles. Women on the Verge second to relieve the te
 
 <table>
   <tr>
-    <td><img src="/images/annihilation.png/" width="200"></td>
+    <td><img src="/images/annihilation.png" width="200"></td>
     <td><img src="/images/stalker.png" width="200"></td>
   </tr>
 </table>
@@ -52,7 +52,7 @@ My favorite illuminating anecdote about Stalker: this movie gave several people 
 
 <table>
   <tr>
-    <td><img src="/images/blade.png/" width="200"></td>
+    <td><img src="/images/blade.png" width="200"></td>
     <td><img src="/images/ghost.png" width="200"></td>
   </tr>
 </table>
@@ -65,7 +65,7 @@ Blade Runner is more action-y, more straightforwardly metaphorical, and unfortun
 
 <table>
   <tr>
-    <td><img src="/images/tampopo.png/" width="200"></td>
+    <td><img src="/images/tampopo.png" width="200"></td>
     <td><img src="/images/eat.png" width="200"></td>
   </tr>
 </table>
